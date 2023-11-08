@@ -1,0 +1,7 @@
+apis: [
+    'http://172.18.5.44:8000/mlbigdata/corenlp/asr/api/samdv/meeting',
+    'http://172.18.5.44:8000/mlbigdata/speech/api/samdv/meeting16',
+    'http://172.18.5.44:8000/mlbigdata/speech/api/tuandv1/meeting28',
+    'http://172.18.5.44:8000/mlbigdata/speech/api/tuandv1/meeting16',
+  ]
+split_url: 'https://speech.aiservice.vn/asr-meeting/api/split'
